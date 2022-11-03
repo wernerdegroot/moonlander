@@ -29,6 +29,7 @@
 #include "keymap_croatian.h"
 #include "keymap_turkish_q.h"
 #include "keymap_slovak.h"
+#include "vim.h"
 
 #define KC_MAC_UNDO LGUI(KC_Z)
 #define KC_MAC_CUT LGUI(KC_X)
